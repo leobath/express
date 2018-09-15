@@ -1,7 +1,7 @@
 {
-  "name": "WebMatrixExpressSite",
+  "name": "astikoktel",
   "version": "0.2.0",
-  "author": "The WebMatrix Team <webmatrix@microsoft.com>",
+  "author": "leobath",
   "description": "A simple boilerplate for building node applications on Windows Azure (or wherever)",
   "contributors": [
     {
